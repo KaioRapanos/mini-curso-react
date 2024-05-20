@@ -1,26 +1,50 @@
 [
     {
-      "title": "Project A",
-      "imageSrc": "projects/project1.jpg",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Desenvolvimento do site",
+      "imageSrc": "projects/projectjaja.png",
+      "description": "I developed a REST API documented with Swagger, and a frontend that dynamically fetches data and displays a carousel and photo catalog. This personal project, covering design to implementation, has been challenging and enriching, providing valuable lessons. Excited to share more details as I progress.",
+      "skills": ["APIs", "Swagger", "JavaScript"],
+      "demo": "https://www.linkedin.com/feed/update/urn:li:activity:7171658271659954177/",
+      "source": "https://github.com/KaioRapanos/casaDeCarnes"
     },
     {
-      "title": "Project B",
-      "imageSrc": "projects/project1.jpg",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Memory game in JavaScript",
+      "imageSrc": "projects/memorigame.png",
+      "description": "I developed a memory game using JavaScript, HTML, and CSS, where the cards are generated dynamically. The goal is to find all the matching pairs, with logic to flip cards and check for matches, along with smooth animations for an engaging user experience. This project was created during the iFood bootcamp.",
+      "skills": ["JavaScript", "HTML", "CSS"],
+      "demo": "https://kaiorapanos.github.io/CriandoJogoMemoriaJavaScript/",
+      "source": "https://github.com/KaioRapanos/CriandoJogoMemoriaJavaScript"
     },
     {
-      "title": "Project C",
+      "title": "Jogo Detona Ralph",
+      "imageSrc": "projects/ralphgame.png",
+      "description": "I developed a Wreck-It Ralph game using JavaScript, HTML, and CSS, where the objective is to click on Ralph's image before it changes position. The game elements are generated dynamically, and it was created during the iFood bootcamp.",
+      "skills": ["JavaScript", "HTML", "CSS"],
+      "demo": "https://kaiorapanos.github.io/CriandoJogoDetonaRalphComJavaScript/",
+      "source": "https://github.com/KaioRapanos/CriandoJogoDetonaRalphComJavaScript"
+    },
+    {
+      "title": ".NET Bootcamp Track at DIO",
       "imageSrc": "projects/project1.jpg",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "description": "I developed a REST API documented with Swagger, including exception handling, built in .NET during the DIO .NET bootcamp.",
+      "skills": [".Net", "APIs", "Exception Handling"],
+      "demo": "https://github.com/KaioRapanos/trilha-net-api-desafio",
+      "source": "https://github.com/KaioRapanos/trilha-net-api-desafio"
+    },
+    {
+      "title": "Credit Application in Kotlin",
+      "imageSrc": "projects/project1.jpg",
+      "description": "Developed during the DIO Kotlin bootcamp, aiming to create a REST API with exception handling and applying unit tests.",
+      "skills": ["Kotlin", "APIs", "Unit Testing"],
+      "demo": "https://github.com/KaioRapanos/credit-application-system",
+      "source": "https://github.com/KaioRapanos/credit-application-system"
+    },
+    {
+      "title": "First Project FullStack",
+      "imageSrc": "projects/project1.jpg",
+      "description": "I developed my first full-stack project creating a to-do list for activity logging. This project involved development in Java, HTML, CSS, and Angular. It was created during the iFood bootcamp.",
+      "skills": ["Java", "Angular", "HTML"],
+      "demo": "https://github.com/KaioRapanos/FirstFullStack",
+      "source": "https://github.com/KaioRapanos/FirstFullStack"
     }
   ]

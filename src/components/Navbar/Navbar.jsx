@@ -5,7 +5,8 @@ import { getImageUrl } from "../../utils"
 
 export const Navbar = () =>{
     const[menuOpen, setMenuOpen] = useState(false);
-    
+    const pdfUrl = getImageUrl('documents/KaioRapanos.pdf');
+
     return(
         <nav className={styles.navbar}>
             <a className={styles.title} href="/">
@@ -36,6 +37,9 @@ export const Navbar = () =>{
                     </li>
                     <li>
                         <a href="#contact">Contact</a>
+                    </li>
+                    <li>
+                        <a href={pdfUrl} target="_blank" rel="noopener noreferrer">Resume</a>
                     </li>
                 </ul>
             </div>

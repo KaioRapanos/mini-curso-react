@@ -6,7 +6,7 @@
     border-radius: 10px;
     background: linear-gradient(
         180deg,
-        #576cbc 0%,
+        #2f4497 0%,
         #132a53 100%
     );
     box-shadow: 0 16px 14px 0 #04152d;
@@ -15,12 +15,19 @@
 }
 
 .image {
+    height: 200px;
     margin-bottom: 26px;
 }
 
 .title {
     font-style: 25px;
     font-weight: 700;
+}
+
+.description {
+    height: 100px;
+    overflow: auto;
+    text-overflow: ellipsis;
 }
 
 .skills {
@@ -54,6 +61,6 @@
     font-size: 30px;
     font-weight: 600;
     border-radius: 100px;
-    background: var(--color-primary);
+    background: var(--color-secondary);
     padding: 1px 22px;
 }
