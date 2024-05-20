@@ -1,0 +1,62 @@
+[
+    {
+      "title": "Java",
+      "imageSrc": "skills/java.png"
+    },
+    {
+        "title": "JS",
+        "imageSrc": "skills/js.png"
+    },
+    {
+        "title": "Html-5",
+        "imageSrc": "skills/html.png"
+    },
+    {
+        "title": "CSS",
+        "imageSrc": "skills/css.png"
+    },
+    {
+        "title": "TypeScript",
+        "imageSrc": "skills/type.png"
+    },
+    {
+        "title": "React",
+        "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Git",
+      "imageSrc": "skills/git.png"
+    },
+    {
+      "title": "GitHub",
+      "imageSrc": "skills/github.png"
+    },
+    {
+      "title": "C#",
+      "imageSrc": "skills/c.png"
+    },
+    {
+      "title": "Python",
+      "imageSrc": "skills/python.png"
+    },
+    {
+      "title": "Kotlin",
+      "imageSrc": "skills/kotlin.png"
+    },
+    {
+      "title": "Angular",
+      "imageSrc": "skills/angular.png"
+    },
+    {
+      "title": "SpringBoot",
+      "imageSrc": "skills/spring.png"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.png"
+    },
+    {
+      "title": "MySql",
+      "imageSrc": "skills/mysql.png"
+    }
+  ]

@@ -1,0 +1,59 @@
+[
+    {
+        "role": "Analysis and Systems Development",
+        "organisation": "UniCesumar",
+        "startDate": "Jun, 2023",
+        "endDate": "Present",
+        "experiences": [
+            "Software development using various programming languages",
+            "Database design and management",
+            "System analysis and design",
+            "Web development using modern frameworks",
+            "Quality assurance and testing",
+            "Version control using Git",
+            "Working in Agile development environments",
+            "Collaborative project work",
+            "User interface (UI) and user experience (UX) design",
+            "Network security and data protection"
+        ],
+        "imageSrc": "history/unicesumar.png"
+    },
+    {
+        "role": "Production Engineering",
+        "organisation": "UniCuritiba",
+        "startDate": "Jun, 2017",
+        "endDate": "Dec, 2022",
+        "experiences": [
+            "Problem-solving", 
+            "Analytical thinking", 
+            "Time management", 
+            "Financial management", 
+            "Communication skills",
+            "Process optimization",
+            "Sustainable development",
+            "Supply chain management",
+            "Technology and innovation",
+            "Data analysis and statistics"
+        ],
+        "imageSrc": "history/unicuritiba.png"
+    },
+    {
+      "role": "Programming Student",
+      "organisation": "DIO.me",
+      "startDate": "Jun, 2023",
+      "endDate": "Present",
+      "experiences": [
+        "Working on study projects",
+        "Expanding knowledge",
+        "Learning various programming languages",
+        "Quality assurance and testing",
+        "Version control using Git",
+        "Working in Agile development environments",
+        "Collaborative project work",
+        "Participating in coding challenges",
+        "Developing problem-solving skills",
+        "Engaging in peer code reviews"
+      ],
+      "imageSrc": "history/dio.png"
+    }
+  ]

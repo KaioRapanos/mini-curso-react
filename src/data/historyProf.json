@@ -1,0 +1,21 @@
+[
+  {
+    "role": "Sales Consultant",
+    "organisation": "Ferramentas Gerais",
+    "startDate": "Jan, 2019",
+    "endDate": "Fev, 2024",
+    "experiences": [
+      "B2B customer service",
+      "Problem solving",
+      "Communication skills",
+      "Account management",
+      "Client retention strategies",
+      "New client prospecting",
+      "Time management",
+      "Sales pipeline management",
+      "Negotiation skills",
+      "Product knowledge expertise"
+    ],
+    "imageSrc": "history/fg.png"
+  }
+]
