@@ -6,7 +6,7 @@
     background: linear-gradient(
         180deg,
         var(--color-secondary)0%,
-        #00000098 40%
+        #00000098 39%
     );
     display: flex;
     flex-direction: row;
